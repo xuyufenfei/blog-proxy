@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "http://xuyufenfei.serv00.net/$1"
+      "dest": "https://xuyufenfei.serv00.net/$1"
     }
   ]
 }
